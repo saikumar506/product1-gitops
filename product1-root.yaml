@@ -7,11 +7,11 @@ spec:
   project: default
 
   sources:
-    - repoURL: https://github.com/CloudWithVarJosh/product1-fe-config.git
+    - repoURL: https://github.com/saikumar506/product1-fe-config.git
       targetRevision: main
       path: argo
 
-    - repoURL: https://github.com/CloudWithVarJosh/product1-be-config.git
+    - repoURL: https://github.com/saikumar506/product1-be-config.git
       targetRevision: main
       path: argo
 
